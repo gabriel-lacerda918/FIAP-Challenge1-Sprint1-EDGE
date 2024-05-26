@@ -38,7 +38,7 @@ O sistema lê dados dos sensores para monitorar as condições do cockpit e dos 
 - **Velocidade Máxima:** 320 km/h (quando todas as condições são ideais)
 - **Redução de Velocidade:** 10% para cada condição fora do ideal
 
-## Breve Explicação do Código
+## Explicação do Código
 
 O código lê os valores dos sensores e converte esses valores para unidades significativas. Em seguida, verifica se as leituras estão dentro dos limites ideais e ajusta a velocidade do servo motor de acordo. A velocidade do servo é mapeada para um valor entre 0 e 320 km/h e exibida no Monitor Serial. Se alguma condição estiver fora dos limites, o LED é aceso e a velocidade do servo é reduzida.
 
