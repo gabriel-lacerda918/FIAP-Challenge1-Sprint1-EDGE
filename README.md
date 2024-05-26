@@ -19,7 +19,7 @@ Este projeto simula um sistema de sensores para um carro de corrida de Formula E
 ## Imagem do Circuito Simulado
 ![Circuito-TinkerCad](https://github.com/gabriel-lacerda918/FIAP-Challenge1-Sprint1-EDGE/assets/161903643/f2797ce9-ff4f-4ec7-820b-9f3cd0745288)
 
-<a href="https://www.tinkercad.com/things/9xBMJEK323j-challenge1-sprint1-edge?sharecode=zMt9DEdOuqW8SeCp_UdwNkqQrzVewSrc2efRNhLq834" target="_blank"> Link para visuação do projeto - Tinkercad.</a>
+<a href="https://www.tinkercad.com/things/9xBMJEK323j-challenge1-sprint1-edge?sharecode=zMt9DEdOuqW8SeCp_UdwNkqQrzVewSrc2efRNhLq834" target="_blank">Link para visuação do projeto - Tinkercad</a>
 
 
 
